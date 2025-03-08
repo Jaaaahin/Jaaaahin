@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Mahdi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate SQA developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Weather-App](https://github.com/Jaaaahin/Weather-App)
 
